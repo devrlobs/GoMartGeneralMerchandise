@@ -1,0 +1,6 @@
+@GoMartWebApp_HostAddress = http://localhost:5110
+
+GET {{GoMartWebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
